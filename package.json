@@ -1,5 +1,5 @@
 {
-  "name": "trash-api",
+  "name": "@trashcore/trash-api",
   "version": "1.0.0",
   "description": "Powerful scrapers for social media and downloaders",
   "main": "index.js",
