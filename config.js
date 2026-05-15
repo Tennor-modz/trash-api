@@ -1,7 +1,7 @@
 const config = {
-  author: "FG",
+  author: "Trashcore",
   version: "1.0.0",
-  name: "senna-fg"
+  name: "trashx-api"
 }
 
 module.exports = config
