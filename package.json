@@ -1,6 +1,6 @@
 {
-  "name": "api-dylux",
-  "version": "1.8.6",
+  "name": "trashx-api",
+  "version": "1.0.0",
   "description": "Powerful scrapers for social media and downloaders",
   "main": "index.js",
   "type": "commonjs",
@@ -12,7 +12,7 @@
     "facebook",
     "downloader"
   ],
-  "author": "FG98",
+  "author": "Tennor-modz",
   "license": "MIT",
   "engines": {
     "node": ">=18"
